@@ -1,0 +1,8 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: JGit CLI Executable for Windows
+Bundle-SymbolicName: com.zend.jgit.pgm.win32
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.jgit.pgm;bundle-version="4.2.0"
+Bundle-Vendor: Zend Technologies Ltd.
+Eclipse-PlatformFilter: (osgi.os=win32)
+Eclipse-BundleShape: dir
